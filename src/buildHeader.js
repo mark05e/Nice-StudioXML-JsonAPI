@@ -16,7 +16,7 @@ function buildHeader(jObj) {
   // jObj.LibraryItem
   let root1 = jObj.ScriptContainer;
   let root2 = jObj.ScriptContainer.LibraryItem;
-  console.log({ root1 });
+  // console.log({ root1 });
   let header = {};
   header.scriptName = root2.ImplPath;
   header.busNo = "0";
@@ -31,7 +31,7 @@ function buildHeader(jObj) {
 
   header.nextActionId = "0";
 
-  return { header };
+  return header;
 }
 
 export { buildHeader };

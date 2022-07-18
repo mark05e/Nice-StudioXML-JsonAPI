@@ -2,6 +2,8 @@
 
 Experiment to convert Nice Studio scripts (xml) to json that will can be accepted by their APIs
 
+[CodeSandbox](https://codesandbox.io/s/crazy-ishizaka-n3cbw0)
+
 ## Source - Sample XML Script
 
 [Reqagent](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagent.htm) - [Script](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagt.zip)
