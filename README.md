@@ -6,7 +6,9 @@ Experiment to convert Nice Studio scripts (xml) to json that will can be accepte
 
 ## Source - Sample XML Script
 
-[Reqagent](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagent.htm) - [Script](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagt.zip)
+- [Reqagent](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagent.htm) - [Script](https://help.nice-incontact.com/content/studio/actions/reqagent/reqagt.zip)
+- [Menu](https://help.nice-incontact.com/content/studio/actions/menu/menu.htm) - [Script](https://help.nice-incontact.com/content/studio/actions/menu/menu.zip)
+- [Case](https://help.nice-incontact.com/content/studio/actions/case/case.htm) - [Script](https://help.nice-incontact.com/content/studio/actions/case/casephonescriptexample.zip)
 
 ## Target - [JSON Model](https://developer.niceincontact.com/API/AdminAPI#/General/post_scripts)
 
